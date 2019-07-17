@@ -6,6 +6,6 @@
 Fido = Dog.new
 @name = "Fido"
 Fido.breed = "Pug"
-@breed = "pug"
+@breed = "Pug"
 
  end
