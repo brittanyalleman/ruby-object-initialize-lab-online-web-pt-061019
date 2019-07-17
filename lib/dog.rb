@@ -3,7 +3,7 @@
      @name = name
      @breed = breed
    end
- Dog.new("Fido,Pug")
+ Dog.new("Fido")
 
 Fido.breed("Pug")
 
