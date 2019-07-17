@@ -4,4 +4,5 @@
      @breed = breed
    end
 Fido = Dog.new
+fido.breed =
  end
