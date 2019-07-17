@@ -3,6 +3,6 @@
      @name = name
      @breed = breed
    end
-Fido = Dog.new
+fido = Dog.new
 fido.breed = "Pug"
  end
