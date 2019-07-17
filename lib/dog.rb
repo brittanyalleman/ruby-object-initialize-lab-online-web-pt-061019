@@ -3,9 +3,9 @@
      @name = name
      @breed = breed
    end
-Fido = Dog.new
-@name = "Fido"
-Fido.breed = "Pug"
-@breed = "Pug"
+ Dog.new("Fido")
+
+Fido.breed("Pug")
+
 
  end
