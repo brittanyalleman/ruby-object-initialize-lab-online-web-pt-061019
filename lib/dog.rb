@@ -4,8 +4,8 @@
      @breed = breed
    end
 #  Dog.new("Fido")
-# 
+#
 # Fido.breed("Pug")
-# 
-# 
+#
+#
 #  end
