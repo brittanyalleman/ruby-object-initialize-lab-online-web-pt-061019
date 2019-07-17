@@ -3,5 +3,5 @@
      @name = name
      @breed = breed
    end
-  Dog.new
+Fido = Dog.new
  end
